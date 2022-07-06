@@ -73,7 +73,7 @@ df = sql.query(query)
 
 sql.upload_df(df,
               table_name,
-              db_name)
+              db_name=db_name)
 
 
 # ----------------------------------FILESTORE----------------------------------
