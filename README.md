@@ -16,7 +16,7 @@ This allows us to:
 # Getting Started
 
 1.	Installation process
-- install this package using pip install pdbricks
+- install this package using ```pip install pdbricks```
 2.	Software dependencies
 3.	Latest releases
 4.	API references
