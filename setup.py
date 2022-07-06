@@ -4,8 +4,8 @@ with open('README.md') as f:
     long_description = f.read()
 
 setup(
-  name = pdbricks,
-  packages = pdbricks,
+  name = 'pdbricks',
+  packages = 'pdbricks',
   install_requires = ['databricks-sql-connector'],
   version = '1.0',
   license='MIT',
